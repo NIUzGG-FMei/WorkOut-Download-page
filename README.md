@@ -7,13 +7,14 @@
 | 项目 | 内容 |
 | --- | --- |
 | 最新版本 | 见 [Releases 页面](https://github.com/NIUzGG-FMei/WorkOut-Download-page/releases)顶部 |
-| 直链下载 | [app-release.apk](https://github.com/NIUzGG-FMei/WorkOut-Download-page/releases/latest/download/app-release.apk) |
+| 直链下载 | [WorkOut-1.0.0.apk](https://github.com/NIUzGG-FMei/WorkOut-Download-page/releases/latest/download/WorkOut-1.0.0.apk) |
+| 本版固定链接 | [releases/download/WorkOut-V1.0.0/WorkOut-1.0.0.apk](https://github.com/NIUzGG-FMei/WorkOut-Download-page/releases/download/WorkOut-V1.0.0/WorkOut-1.0.0.apk) |
 | 系统要求 | Android 7.0（API 24）及以上 |
-| 包体 | 单 APK，约 2.2 MB（R8 混淆 + 作者签名） |
+| 包体 | 单 APK，2.07 MB（R8 混淆 + 作者签名） |
 
 > 直链失效时会提示 404——说明该版本资产尚未上传，请直接从 [Releases 页面](https://github.com/NIUzGG-FMei/WorkOut-Download-page/releases)下载。
 
-<!-- 维护者：资产文件名固定为 app-release.apk，latest/download 直链才长期有效；发新 Release 时同步更新下方版本表 -->
+<!-- 维护者：资产命名约定 WorkOut-<version>.apk。发布新版后请同步更新：上方两条直链的文件名、包体大小、下方版本表 -->
 
 ## 这是什么 App
 
@@ -34,7 +35,7 @@
 
 ## 安装与升级
 
-1. 下载 `app-release.apk` 到手机并点击安装；首次侧载需在弹窗中允许「安装未知来源应用」。
+1. 下载 `WorkOut-1.0.0.apk` 到手机并点击安装；首次侧载需在弹窗中允许「安装未知来源应用」。
 2. 升级时直接覆盖安装新版本即可，**本地数据完整保留**（同一签名）。
 3. 首次安装如遇系统安全提示，属侧载应用常规提醒；请确认安装包来自本页面。
 4. 通知提醒在「我的 → 消息通知」内手动开启；建议按应用内指引调整电池策略以保证提醒准时。
@@ -43,7 +44,7 @@
 
 | 版本 | 日期 | 说明 |
 | --- | --- | --- |
-| 1.0.0 (versionCode 1) | 2026-09 | 首个公开发布版 |
+| [1.0.0](https://github.com/NIUzGG-FMei/WorkOut-Download-page/releases/tag/WorkOut-V1.0.0) (versionCode 1) | 2026-09-25 | 首个公开发布版 |
 
 ## 反馈与声明
 
